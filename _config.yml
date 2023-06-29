@@ -10,7 +10,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: "欢迎来到清序砚竹联盟！"
+header_text: "欢迎来到“清序砚竹”联盟！"
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
