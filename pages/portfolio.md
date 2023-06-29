@@ -1,8 +1,8 @@
 --- 
 layout: page
-title : Portfolio 
+title : 成员 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "联盟成员" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
 ---
