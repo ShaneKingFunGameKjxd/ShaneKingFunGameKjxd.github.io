@@ -3,7 +3,7 @@ layout: post
 title: 李猜猜
 feature-img: "assets/img/portfolio/safe.png"
 img: "assets/img/portfolio/safe.png"
-date: 17-06-2023
+date: 2023-06-17
 tags: [联盟成员]
 ---
 
