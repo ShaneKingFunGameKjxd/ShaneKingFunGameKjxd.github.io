@@ -7,6 +7,4 @@ date: 2023-06-17
 tags: [联盟成员]
 ---
 
-![image]({{ page.img | relative_url }})
-
 李不猜吧啦吧啦～
