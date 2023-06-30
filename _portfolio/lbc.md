@@ -2,7 +2,7 @@
 layout: post
 title: 李不猜
 feature-img: "assets/img/header/triangular.jpeg"
-img: "assets/img/portfolio/safe.png"
+img: "assets/img/kjxd/lbc.png"
 date: 2023-06-17
 tags: [联盟成员]
 ---
