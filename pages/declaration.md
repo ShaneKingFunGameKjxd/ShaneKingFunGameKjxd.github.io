@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于
+title: 宣言
 permalink: /declaration/
 subtitle: "联盟宣言"
 feature-img: "assets/img/pexels/book-glass.jpeg"
