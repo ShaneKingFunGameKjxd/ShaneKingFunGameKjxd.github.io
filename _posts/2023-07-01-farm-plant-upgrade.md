@@ -2,7 +2,7 @@
 layout: post
 title: 农场工厂升级后，生产花费的金币也会跟着增多么？
 feature-img: "assets/img/kjxd/pst/2307/kjxd-nc-01.jpeg"
-thumbnail: "assets/img/kjxd/pst/thumbnails/2307/kjxd-nc-01.jpeg"
+thumbnail: "assets/img/kjxd/pst/thumbnail/2307/kjxd-nc-01.jpeg"
 tags: [Q&A]
 ---
 
