@@ -41,5 +41,5 @@ XDYL
 
 svip666
 
-# 【联盟群聊】
+# 【联盟群聊】（欢迎加入讨论）
 {% include aligner.html images="kjxd/qrcode.jpeg" %}
