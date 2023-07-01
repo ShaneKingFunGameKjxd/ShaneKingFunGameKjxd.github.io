@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Page]
 ---
 
-欢迎入盟做任务，领福利
+欢迎入盟做任务，领福利！
 # 【钻石红包】
 每天40个🧧，近半千💎等你领！
 
@@ -22,12 +22,24 @@ tags: [Page]
 
 # 【礼品兑换】（左上角头像->设置）
 vip888
+
 JKXDWBbASjR
+
 XD888
+
 CWXD888
+
 XDWX666
+
 XDWX888
+
 vip666
+
 KDYL
+
 XDYL
+
 svip666
+
+# 【联盟群聊】
+{% include aligner.html images="kjxd/qrcode.jpeg" %}
