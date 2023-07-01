@@ -2,6 +2,7 @@
 layout: page
 title: 关于
 permalink: /about/
+subtitle: "关于联盟"
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
