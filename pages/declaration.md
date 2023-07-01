@@ -24,25 +24,16 @@ tags: [Page]
 请尽可能使用荧光棒！
 
 # 【礼品兑换】（左上角头像->设置）
-vip888
-
-JKXDWBbASjR
-
-XD888
-
-CWXD888
-
-XDWX666
-
-XDWX888
-
-vip666
-
-KDYL
-
-XDYL
-
-svip666
+vip888  
+JKXDWBbASjR  
+XD888  
+CWXD888  
+XDWX666  
+XDWX888  
+vip666  
+KDYL  
+XDYL  
+svip666  
 
 # 【联盟群聊】（欢迎加入讨论）
 {% include aligner.html images="kjxd/qrcode.jpeg" %}
