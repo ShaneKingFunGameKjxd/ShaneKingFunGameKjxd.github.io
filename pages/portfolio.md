@@ -8,3 +8,7 @@ tags: [Page]
 ---
 
 {% include portfolio.html %}
+
+欢迎扫描加入群聊！
+
+{% include aligner.html images="kjxd/qrcode.jpeg" %}
