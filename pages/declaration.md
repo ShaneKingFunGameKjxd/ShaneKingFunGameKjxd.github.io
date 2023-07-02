@@ -1,8 +1,8 @@
 ---
 layout: page
-title: XuanYan
+title: Declaration
 permalink: /declaration/
-subtitle: "LianMengXuanYan"
+subtitle: "AllianceDeclaration"
 feature-img: "assets/img/pexels/book-glass.jpeg"
 hide: true
 ---
