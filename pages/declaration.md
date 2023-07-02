@@ -4,7 +4,6 @@ title: XuanYan
 permalink: /declaration/
 subtitle: "LianMengXuanYan"
 feature-img: "assets/img/pexels/book-glass.jpeg"
-tags: [Page]
 hide: true
 ---
 
