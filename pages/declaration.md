@@ -5,6 +5,7 @@ permalink: /declaration/
 subtitle: "宣言"
 feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Page]
+hide: true
 ---
 
 欢迎入盟做任务，领福利！
