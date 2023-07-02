@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 宣言
+title: 联盟宣言
 permalink: /declaration/
-subtitle: "联盟宣言"
+subtitle: "宣言"
 feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Page]
 ---
