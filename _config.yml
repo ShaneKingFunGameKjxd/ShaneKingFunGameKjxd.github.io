@@ -15,7 +15,7 @@ header_text: "欢迎来到“清序砚竹”联盟！"
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://game-kjxd.shaneking.fun">清序砚竹</a>
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://qxyz.club">清序砚竹</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
