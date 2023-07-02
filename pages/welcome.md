@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 宣言
+title: Welcome
 permalink: /welcome/
-subtitle: "联盟宣言"
+subtitle: "欢迎您"
 feature-img: "assets/img/pexels/book-glass.jpeg"
-tags: [Page]
+hide: true
 ---
 
 欢迎入盟做任务，领福利！
