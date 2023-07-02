@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 联盟宣言
+title: XuanYan
 permalink: /declaration/
-subtitle: "宣言"
+subtitle: "LianMengXuanYan"
 feature-img: "assets/img/pexels/book-glass.jpeg"
 tags: [Page]
 hide: true
